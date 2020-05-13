@@ -1,4 +1,4 @@
-# This is the backend api that connects to my database for my TogetherApp
+# This is the backend api that connects to my database for my TogetherPray
 ### Created By: Mason Schafer
 
 ---
